@@ -8,4 +8,4 @@ I argue that the requirements must be specified, managed, and implemented in a s
 Such an approach will be useful only when representations of requirements are adapted (i.e., molded) to suit the needs of various technical and non-technical stakeholders. 
 Provided right interfaces, an IDE can be an excellent venue for such a confluence of static requirements and live domain objects. 
 
-![Moldable Requirements approach](images/moldable-requirements-approach.pdf)
+![Moldable Requirements approach](images/moldable-requirements-approach.png)
