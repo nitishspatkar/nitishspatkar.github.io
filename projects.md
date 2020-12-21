@@ -1,5 +1,7 @@
 ### Projects
 
+---
+
 #### Moldable scenarios
 In this project, we surveyed popular BDD tools and analyzed their support to engage multiple stakeholders in the BDD process, particularly in IDEs.
 We propose an approach and present an advanced prototype implmentation to enable non-technical stakeholders to iteratively create scenarios and inspect corresponding domain objects with suitable interfaces and representations.
