@@ -11,7 +11,7 @@ Check out my [Google Scholar Profile](https://scholar.google.de/citations?user=y
 
 
 I have been the main teaching assistant for the lecture [Introduction to Software Engineering](http://scg.unibe.ch/teaching/ese) (2018-present). My main responsibilities, among others, are to think and plan a full semester development project for roughly 50-60 students. Students are divided into teams of 4-5 and build a toy web application to practice fundamental concepts of software engineering, such as object-oriented design and modeling. They also practice Scrum, cost estimation, project management, etc.
-
+.<br><br>
 
 ### Excerpts from books that I cherish
 
