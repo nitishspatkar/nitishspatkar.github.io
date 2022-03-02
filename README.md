@@ -1,5 +1,5 @@
-I am currently a research associate at FHNW University of Applied Sciences and Arts, Northwestern Switzerland in the [Institute forInteractive Technologies](https://www.fhnw.ch/en/about-fhnw/schools/school-of-engineering/institutes/institute-for-interactive-technologies).  
-I finished mm Ph.D. from the University of Bern in the Software Composition Group. 
+I am currently a research associate at FHNW (University of Applied Sciences and Arts, Northwestern Switzerland) in the [Institute for Interactive Technologies](https://www.fhnw.ch/en/about-fhnw/schools/school-of-engineering/institutes/institute-for-interactive-technologies).  
+I finished my Ph.D. from the University of Bern in the Software Composition Group. 
 Broadly speaking, I work in the requirements engineering domain, and particularly I am interested in involving various stakeholders in the software development process by providing them a minimum number of tools with the right interfaces. 
 
 Check out my doctoral research thesis, titled [Supporting Multiple Stakeholders in Agile Development](./moldable-requirements.md).<br><br>
