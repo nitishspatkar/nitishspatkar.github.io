@@ -11,8 +11,8 @@ Check out my doctoral research thesis, titled [Supporting Multiple Stakeholders 
 
 Check out my [Google Scholar Profile](https://scholar.google.de/citations?user=y4KM2XAAAAAJ&hl=en) for the latest publications.<br>
 
-In the past, I have been the main teaching assistant for the lecture [Introduction to Software Engineering](http://scg.unibe.ch/teaching/ese) (2018-present). My main responsibilities, among others, were to think and plan a full semester development project for roughly 50-60 students. Students are divided into teams of 4-5 and build a toy web application to practice fundamental concepts of software engineering, for instance object-oriented design and modeling. They also practice Scrum, cost estimation, and project management.
-.<br><br>
+In the past, I have been the main teaching assistant for the lecture [Introduction to Software Engineering](http://scg.unibe.ch/teaching/ese) (2018-2022). My main responsibilities, among others, were to think and plan a full semester development project for roughly 50-60 students. Students were divided into teams of 4-5 and build a toy web application to practice fundamental concepts of software engineering, for instance object-oriented design and modeling. They also practice Scrum, cost estimation, and other project management activities.
+<br><br>
 
 ### Excerpts from books that I cherish
 
