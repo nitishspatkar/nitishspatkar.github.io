@@ -20,29 +20,24 @@ In the past, I have been the main teaching assistant for the lecture [Introducti
 ---
 
 **Ph.D.**
+<br>
 **University of Bern**
 March 2018-March 2022
+<br>
 *Research topics*: requirements engineering, domain modelling, collaborative development
 
 **M.Sc.**
+<br>
 **University of Paderborn**
 March 2014-February 2018
+<br>
 *Focus point*: Information and database systems
 
 **B.E.**
+<br>
 **University of Mumbai**
 2009-2012
 
-<dl>
-<dt>Ph.D.</dt>
-<dd>University of Bern</dd>
-<dt>March 2018-March 2022</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
 <br><br>
 
 ### Excerpts from books that I cherish
