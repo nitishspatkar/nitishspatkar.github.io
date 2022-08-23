@@ -55,6 +55,33 @@ March 2022-Present
 *   Supervising bachelor and master thesis and guiding students through the whole process of problem identification and proposing and validating a solution. 
 *   Preparing project proposals to acquire funding.
 
+**University of Bern**, as a **Research assistant**
+<br>
+February 2018-February 2022
+<br>
+*	Supervising several bachelor and master thesis and guiding students through the whole process of problem identification and proposing and validating a solution. 
+* Worked as a tutor and successfully conducted a semester long software development project for four consecutive years. Each year, about 50 students in a team of 4-5 built a web application from scratch and I supervised their progress.
+
+**ActiDo GmbH, Paderborn**, as a **Web developer**
+<br>
+2017-2018
+<br>
+* Built a proof-of-concept for a web application using React.
+* Main tasks involved implementing provided designs into HTML, CSS and writing frontend logic with React. 
+
+**University of Paderborn**, as a **Research assistant**
+<br>
+2016-2018
+<br>
+* Worked with clients at Volksbank and university sports department to understand their requirements for a sports application. 
+* Developed a single page application using Angular and Django Rest framework as a proof of concept for the employees at Volkbank.
+
+**Infosys Ltd., India**, as a **Systems Engineer**
+<br>
+2012-2014
+<br>
+* Was a part of a team that worked on product lifecycle management (PLM) platforms, e.g., Windchill.
+* Worked on building a web application for a US-based client “Cox communications.”
 
 <br><br>
 
