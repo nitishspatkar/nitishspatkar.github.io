@@ -22,6 +22,7 @@ In the past, I have been the main teaching assistant for the lecture [Introducti
 **Ph.D.**
 <br>
 **University of Bern**
+<br>
 March 2018-March 2022
 <br>
 *Research topics*: requirements engineering, domain modelling, collaborative development
@@ -29,6 +30,7 @@ March 2018-March 2022
 **M.Sc.**
 <br>
 **University of Paderborn**
+<br>
 March 2014-February 2018
 <br>
 *Focus point*: Information and database systems
@@ -36,7 +38,23 @@ March 2014-February 2018
 **B.E.**
 <br>
 **University of Mumbai**
+<br>
 2009-2012
+
+<br><br>
+
+### Professional experience
+
+---
+
+**University of Applied Sciences and Arts North-western Switzerland (FHNW)**, as a **Research associate**
+<br>
+March 2022-Present
+<br>
+*   Managing several projects with our industry partners.
+*   Supervising bachelor and master thesis and guiding students through the whole process of problem identification and proposing and validating a solution. 
+*   Preparing project proposals to acquire funding.
+
 
 <br><br>
 
