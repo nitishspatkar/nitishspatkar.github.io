@@ -14,6 +14,29 @@ Check out my [Google Scholar Profile](https://scholar.google.de/citations?user=y
 In the past, I have been the main teaching assistant for the lecture [Introduction to Software Engineering](http://scg.unibe.ch/teaching/ese) (2018-2022). My main responsibilities, among others, were to think and plan a full semester development project for roughly 50-60 students. Students were divided into teams of 4-5 and build a toy web application to practice fundamental concepts of software engineering, for instance object-oriented design and modeling. They also practice Scrum, cost estimation, and other project management activities.
 <br><br>
 
+
+### Education
+
+---
+
+**Ph.D.**
+**University of Bern**
+March 2018-March 2022
+
+Research topics: requirements engineering, domain modelling, collaborative development
+
+**M.Sc.**
+**University of Paderborn**
+March 2014-February 2018
+
+Focus point: Information and database systems
+
+**B.E.**
+**University of Mumbai**
+2009-2012
+
+<br><br>
+
 ### Excerpts from books that I cherish
 
 ---
