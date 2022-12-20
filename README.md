@@ -38,6 +38,7 @@ March 2014-February 2018
 **University of Mumbai**
 <br>
 2009-2012
+<br>
 
 ### Professional experience
 
@@ -47,8 +48,9 @@ March 2014-February 2018
 <br>
 March 2022-Present
 <br>
+*   Teaching Requirements Engineering at bachelor's level (substitute).
 *   Managing several projects with our industry partners.
-*   Supervising bachelor and master thesis and guiding students through the whole process of problem identification and proposing and validating a solution. 
+*   Supervising bachelor and master thesis and guiding students through the whole process of problem identification and proposing, and validating a solution. 
 *   Preparing project proposals to acquire funding.
 
 **University of Bern**, as a **Research assistant**
