@@ -1,3 +1,5 @@
+
+
 I am currently a research associate at FHNW (University of Applied Sciences and Arts, Northwestern Switzerland) in the [Institute for Interactive Technologies](https://www.fhnw.ch/en/about-fhnw/schools/school-of-engineering/institutes/institute-for-interactive-technologies).  
 I finished my Ph.D. from the University of Bern in the [Software Composition Group](https://scg.unibe.ch/) under Prof. Oscar Nierstrasz. 
 Broadly speaking, I work in the requirements engineering domain, and particularly I am interested in involving various stakeholders in the software development process by providing them a minimum number of tools with the right interfaces. 
@@ -50,14 +52,16 @@ March 2022-Present
 <br>
 *   Teaching Requirements Engineering at bachelor's level (substitute).
 *   Managing several projects with our industry partners.
-*   Supervising bachelor and master thesis and guiding students through the whole process of problem identification and proposing, and validating a solution. 
+*   Working as a teach coach for 1st and 2nd semester student project and guiding students through the RUP process
+*   Working as an Agile coach for 3rd and 4th semester student projects and guiding students through the agile process  
+*   Supervising 5th and 6th semester (i.e., bachelor thesis) student projects and guiding students through the whole process of problem identification and proposing, and validating a solution. 
 *   Preparing project proposals to acquire funding.
 
 **University of Bern**, as a **Research assistant**
 <br>
 February 2018-February 2022
 <br>
-*	Supervising several bachelor and master thesis and guiding students through the whole process of problem identification and proposing and validating a solution. 
+*   Supervising several bachelor and master thesis and guiding students through the whole process of problem identification and proposing and validating a solution. 
 * Worked as a tutor and successfully conducted a semester long software development project for four consecutive years. Each year, about 50 students in a team of 4-5 built a web application from scratch and I supervised their progress.
 
 **ActiDo GmbH, Paderborn**, as a **Web developer**
