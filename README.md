@@ -52,7 +52,7 @@ March 2022-Present
 <br>
 *   Teaching Requirements Engineering at bachelor's level (substitute).
 *   Managing several projects with our industry partners.
-*   Working as a teach coach for 1st and 2nd semester student project and guiding students through the RUP process
+*   Working as a team coach for 1st and 2nd semester student project and guiding students through the RUP process
 *   Working as an Agile coach for 3rd and 4th semester student projects and guiding students through the agile process  
 *   Supervising 5th and 6th semester (i.e., bachelor thesis) student projects and guiding students through the whole process of problem identification and proposing, and validating a solution. 
 *   Preparing project proposals to acquire funding.
@@ -84,6 +84,17 @@ February 2018-February 2022
 <br>
 * Was a part of a team that worked on product lifecycle management (PLM) platforms, e.g., Windchill.
 * Worked on building a web application for a US-based client “Cox communications.”
+<br>
+
+### Reviewing activities
+
+---
+
+I have served as a reviewer for the following international journals and conferences: 
+<br>
+* Empirical Software Engineering Journal (EMSE), 2023
+* Information and Software Technology Journal (IST), 2023
+
 
 ### Excerpts from books that I cherish
 
