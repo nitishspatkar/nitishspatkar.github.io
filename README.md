@@ -96,8 +96,12 @@ I have served as a reviewer for the following international journals and confere
 * Information and Software Technology Journal (IST), 2023
 
 
-### Excerpts from books that I cherish
+### Other
 
 ---
+
+Check out the list of [innovative industry projects I have been involved in](./projects.md).
+
+Check out the list of [bachelor/master theses](./theses.md) I have supervised.
 
 Check out [Excerpts Page](./excerpts.md) where I occasionally collect interesting and important lessons that I cherish. 
