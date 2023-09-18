@@ -10,7 +10,7 @@ Broadly speaking, I work in the requirements engineering domain, and particularl
 Check out my doctoral research thesis, titled [Supporting Multiple Stakeholders in Agile Development](./moldable-requirements.md).
 
 
-Check out the list of [bachelor/master theses](./theses.md) I have supervised.
+Check out the list of [bachelor/master theses](./thesus.md) I have supervised.
 
 
 ### Academic career
