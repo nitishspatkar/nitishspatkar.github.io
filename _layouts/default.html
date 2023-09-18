@@ -15,7 +15,11 @@
     <div class="wrapper">
       <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
-        
+        <p>
+          <large> 
+              <a href="../projects.md" target="_blank">Projects with industry partners</a>
+           </large> 
+       </p>
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
@@ -38,13 +42,6 @@
         </ul>
         {% endif %}
       </header>
-      <section>
-        <p>
-          <large> 
-              <a href="../projects.md" target="_blank">Projects with industry partners</a>
-           </large> 
-       </p>
-        </section>
       <section>
 
       {{ content }}
