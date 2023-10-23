@@ -1,4 +1,5 @@
 ### Projects
+I have been part of following Innosuisse funded research projects:
 
 ---
 
@@ -11,7 +12,7 @@ The enablerr Business System is developed by pier4all AG, founded in 2019 and cu
 [Read more about enablerr](https://www.enablerr.ch/) 
 
 
-### Marianne
+#### Marianne
 Olanga marketplace is an innovative solution to reduce food waste and food loss. The B2B online platform for overproduction and non-standard products, helps effectively reduce food losses at the source.
 [Read more about Olanga Marketplace](https://olanga.ch/#home) 
 
