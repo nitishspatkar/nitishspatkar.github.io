@@ -98,6 +98,7 @@ February 2018-February 2022
 
 I have served as a reviewer for the following international journals and conferences: 
 <br>
+* Science of Computer Programming, 2023
 * Empirical Software Engineering Journal (EMSE), 2023
 * Information and Software Technology Journal (IST), 2023
 
