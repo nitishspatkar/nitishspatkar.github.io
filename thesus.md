@@ -1,11 +1,6 @@
-### Thesus and other projects
+### Thesus and other student projects
 
 ---
-* "Modeling requirements artifacts in an IDE," Robert Niemiec, Masters thesis, University of Bern, September 2020.
-
-* "Moldable scenario builder," Ivan Kravchenko, Masters thesis, University of Bern, June 2020. 
-
-* "Increasing stakeholder engagement with object cards," Artthik Sellathurai, Bachelor's thesis, University of Bern, March 2022. 
 
 * "Adaptive user interfaces," Adhurim Gervalla and Julian Frey, IP5 student project, FHNW, January 2023.
 
@@ -15,4 +10,15 @@
 
 * "Clean Energy Exchange (CEEX): The Future of Energy Trading," George Rowlands and Raphael Lüthy, IP5 student project, FHNW, January 2023.
 
+* "Increasing stakeholder engagement with object cards," Artthik Sellathurai, Bachelor's thesis, University of Bern, March 2022. 
 
+* "Modeling requirements artifacts in an IDE," Robert Niemiec, Masters thesis, University of Bern, September 2020.
+
+* "Moldable scenario builder," Ivan Kravchenko, Masters thesis, University of Bern, June 2020.
+
+### Ongoing collaborations
+
+---
+
+* Prof. Timo Kehrer (UNi Bern)
+* Dr. Fernando Benites, Martin Kropp, and Prof. Pieter Perrett (FHNW)

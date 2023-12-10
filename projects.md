@@ -1,5 +1,5 @@
 ### Projects
-I have been part of following Innosuisse funded research projects:
+I have been part of and contributing to the following Innosuisse funded research projects:
 
 ---
 
