@@ -4,7 +4,7 @@
 
 * "Adaptive user interfaces," Adhurim Gervalla and Julian Frey, IP5 student project, FHNW, January 2023 [Download PDF](./pdfs/adaptive_user_interfaces.pdf).
 
-* "Automatic Generation of User Interfaces," Ana Cosic, Bachelor's thesis, FHNW, August 2023 [Download PDF] (./pdfs/automatic_Generation_of_User_Interface.pdf).
+* "Automatic Generation of User Interfaces," Ana Cosic, Bachelor's thesis, FHNW, August 2023 [Download PDF](./pdfs/automatic_Generation_of_User_Interface.pdf).
 
 * "Are user stories really "Done"? Gaining insights into the life of a user story after it's implemented," Festim Jetishi and Jan Säuberli, Bachelor's thesis, FHNW, August 2023.
 
