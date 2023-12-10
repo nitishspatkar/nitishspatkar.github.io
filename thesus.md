@@ -2,7 +2,7 @@
 
 ---
 
-* "Adaptive user interfaces," Adhurim Gervalla and Julian Frey, IP5 student project, FHNW, January 2023.
+* "Adaptive user interfaces," Adhurim Gervalla and Julian Frey, IP5 student project, FHNW, January 2023 [Download PDF](./pdfs/adaptive_user_interfaces.pdf).
 
 * "Automatic Generation of User Interfaces," Ana Cosic, Bachelor's thesis, FHNW, August 2023.
 
