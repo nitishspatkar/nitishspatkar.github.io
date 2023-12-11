@@ -1,17 +1,9 @@
 ## Supporting Multiple Stakeholders in Agile Development
 
-Requirements engineering is a sequential as well as a cyclic process. Several stakeholders motivated to make a project successful are ready to go on a battlefield with their favorite tools in their arsenal. Sadly, enabling coordination or collaboration between these highly motivated stakeholders also means making their tools interact with each other.
+Requirements engineering is both a sequential and a cyclic process. Numerous stakeholders, each passionate about the project's success, enter the fray equipped with their preferred tools. Unfortunately, facilitating coordination and collaboration among these enthusiastic stakeholders also requires integrating their diverse tools.
 
+I advocate for the creation, management, and implementation of requirements and other specification and design-related artifacts within a unified environment. This method proves effective only when the representations of requirements and artifacts are tailored to meet the diverse needs of both technical and non-technical stakeholders. With the right graphical user interfaces, an Integrated Development Environment (IDE) can serve as an ideal platform for merging static requirements with live domain objects.
 
-I argue that the requirements and other specification and design related artifacts must be created, managed, and implemented in a single environment. 
-Such an approach will be useful only when representations of requirements and other artifacts are adapted to suit the needs of various technical and non-technical stakeholders. 
-Provided right graphical user interfaces, an IDE can be an excellent venue for such a confluence of static requirements and live domain objects. 
-
-With my approach, requirements are specified, maintained, and implemented as first-class citizens within an IDE.
-To achieve that, requirements hierarchies, as well as their representations, are molded to suit the application domain and project needs. 
-Developers first create custom requirements hierarchies, i.e., from high-level epics down to concrete scenarios.
-Next, developers build interfaces, such as graphical ones, that enable other stakeholders to create, access, and navigate the corresponding requirements. 
-Developers also craft domain-specific representations for the involved domain entities in the requirements.
-The same approach allows us to represent design models, such as a use case diagram, as just another representation of a particular instance of a use case.
+In my approach, requirements are treated as first-class entities within an IDE, where they are specified, maintained, and implemented. This involves shaping requirements hierarchies and their representations to fit the specific application domain and project requirements. Developers begin by constructing custom requirements hierarchies, ranging from high-level epics to detailed scenarios. They then develop interfaces, such as graphical ones, allowing other stakeholders to create, access, and navigate these requirements. Developers also design domain-specific representations for entities within the requirements. This strategy extends to representing design models, like use case diagrams, as yet another form of a specific use case instance.
 
 Curious? Check out my [doctoral thesis](http://scg.unibe.ch/archive/phd/patkar-phd.pdf)

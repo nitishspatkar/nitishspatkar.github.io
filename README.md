@@ -1,25 +1,24 @@
 
+I am currently serving as a research associate at FHNW (University of Applied Sciences and Arts, Northwestern Switzerland) within the [Institute for Interactive Technologies](https://www.fhnw.ch/en/about-fhnw/schools/school-of-engineering/institutes/institute-for-interactive-technologies).
 
-I am currently a research associate at FHNW (University of Applied Sciences and Arts, Northwestern Switzerland) in the [Institute for Interactive Technologies](https://www.fhnw.ch/en/about-fhnw/schools/school-of-engineering/institutes/institute-for-interactive-technologies).  
+Explore the list of [innovative industry projects I have been involved in](./projects.md).
 
-Check out the list of [innovative industry projects I have been involved in](./projects.md).
+I earned my Ph.D. from the University of Bern, specifically from the [Software Composition Group](https://scg.unibe.ch/) under the guidance of Prof. Oscar Nierstrasz. My work primarily focuses on requirements engineering, with a keen interest in engaging various stakeholders in the software development process by providing them with a minimal number of tools complemented by the appropriate interfaces.
 
-I finished my Ph.D. from the University of Bern in the [Software Composition Group](https://scg.unibe.ch/) under Prof. Oscar Nierstrasz. 
-Broadly speaking, I work in the requirements engineering domain, and particularly I am interested in involving various stakeholders in the software development process by providing them a minimum number of tools with the right interfaces. 
+Discover my doctoral research thesis, titled [Supporting Multiple Stakeholders in Agile Development](./moldable-requirements.md).
 
-Check out my doctoral research thesis, titled [Supporting Multiple Stakeholders in Agile Development](./moldable-requirements.md).
+Also, review the [list of bachelor's and master's theses](./thesus.md) that I have supervised.
 
-
-Check out the list of [bachelor/master theses](./thesus.md) I have supervised.
 
 
 ### Academic career
 
 ---
 
-Check out my [Google Scholar Profile](https://scholar.google.de/citations?user=y4KM2XAAAAAJ&hl=en) for the latest publications.<br>
-I co-teach requirements engineering at FHNW.
-In the past, I have been the main teaching assistant for the lecture [Introduction to Software Engineering](http://scg.unibe.ch/teaching/ese) (2018-2022) at University of Bern. There, my main responsibilities, among others, were to think and plan a full semester software engineering project for roughly 50-60 students.
+Take a look at my [Google Scholar Profile](https://scholar.google.de/citations?user=y4KM2XAAAAAJ&hl=en) for my most recent publications.<br> 
+I co-teach requirements engineering at FHNW. 
+Previously, I served as the primary teaching assistant for the [Introduction to Software Engineering](http://scg.unibe.ch/teaching/ese) course (2018-2022) at the University of Bern. My key responsibilities included designing and planning a comprehensive semester-long software engineering project for approximately 50-60 students, among other duties.
+
 
 ### Education
 
@@ -99,7 +98,7 @@ February 2018-February 2022
 
 I have served as a reviewer for the following international journals and conferences: 
 <br>
-* Requirements Engineering: Foundation for Software Quality (REFSQ) 2024 (PC member)
+* (upcoming) Requirements Engineering: Foundation for Software Quality (REFSQ) 2024 (PC member)
 * Science of Computer Programming Journal, 2023
 * Empirical Software Engineering Journal (EMSE), 2023
 * Information and Software Technology Journal (IST), 2023

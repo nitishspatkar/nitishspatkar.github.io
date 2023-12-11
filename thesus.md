@@ -2,6 +2,14 @@
 
 ---
 
+* (ongoing) "Marktplatz für „individuell" gewachsenes Obst und Gemüse: Unterstützung des Backoffice" Yannick Hohler and Simona Mavilio.
+
+* (ongoing) "Digital Horse Domain" Karin Güdel and Petra Kohler.
+
+* (ongoing) "Sustainability Navigator für die FHNW" Kevin Würsch and Philippe Fasel.
+
+* (ongoing) "Visualisierung und Analyse von Daten von Fittnesstrackern" Elias Bräm and Francesco Lucia.
+
 * "Adaptive user interfaces," Adhurim Gervalla and Julian Frey, IP5 student project, FHNW, January 2023 [Download PDF](./pdfs/adaptive_user_interfaces.pdf).
 
 * "Automatic Generation of User Interfaces," Ana Cosic, Bachelor's thesis, FHNW, August 2023 [Download PDF](./pdfs/automatic_Generation_of_User_Interface.pdf).
