@@ -36,7 +36,7 @@ I have assisted Prof. Martin Glinz in grading Requirements Engineering exams at 
 
 **Ph.D.**
 <br>
-**University of Bern**
+**University of Bern, Switzerland**
 <br>
 March 2018-March 2022
 <br>
@@ -44,7 +44,7 @@ March 2018-March 2022
 
 **M.Sc.**
 <br>
-**University of Paderborn**
+**University of Paderborn, Germany**
 <br>
 March 2014-February 2018
 <br>
@@ -52,7 +52,7 @@ March 2014-February 2018
 
 **B.E.**
 <br>
-**University of Mumbai**
+**University of Mumbai, India**
 <br>
 2009-2012
 <br>
@@ -78,7 +78,7 @@ March 2022-Present
 February 2018-February 2022
 <br>
 *   Supervising several bachelor and master thesis and guiding students through the whole process of problem identification and proposing and validating a solution. 
-* Worked as a tutor and successfully conducted a semester long software development project for four consecutive years.
+* Worked as a tutor and successfully conducted a semester long software engineering project for four consecutive years. Each year, about 50-60 students were guided into the process of identifying and specifying requirements, making prototypes, implementation and testing.  
 
 **ActiDo GmbH, Paderborn**, as a **Web developer**
 <br>
