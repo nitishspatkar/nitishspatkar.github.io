@@ -11,13 +11,23 @@ Also, review the [list of bachelor's and master's theses](./thesus.md) that I ha
 
 
 
-### Academic career
+### Research activities
 
 ---
 
-Take a look at my [Google Scholar Profile](https://scholar.google.de/citations?user=y4KM2XAAAAAJ&hl=en) for my most recent publications.<br> 
-I co-teach requirements engineering at FHNW. 
-Previously, I served as the primary teaching assistant for the [Introduction to Software Engineering](http://scg.unibe.ch/teaching/ese) course (2018-2022) at the University of Bern. My key responsibilities included designing and planning a comprehensive semester-long software engineering project for approximately 50-60 students, among other duties.
+Take a look at my [Google Scholar Profile](https://scholar.google.de/citations?user=y4KM2XAAAAAJ&hl=en) for my most recent publications.<br>
+
+I have served as a reviewer for the following international journals and conferences: 
+<br>
+* (upcoming) Requirements Engineering: Foundation for Software Quality (REFSQ) 2024 (PC member)
+* Science of Computer Programming Journal, 2023
+* Empirical Software Engineering Journal (EMSE), 2023
+* Information and Software Technology Journal (IST), 2023
+* The IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), 2020 (subreviewer)<br>
+
+I have assisted Prof. Martin Glinz in grading Requirements Engineering exams at the University of Zurich. 
+
+
 
 
 ### Education
@@ -92,17 +102,6 @@ February 2018-February 2022
 * Worked on building a web application for a US-based client “Cox communications.”
 <br>
 
-### Reviewing activities
-
----
-
-I have served as a reviewer for the following international journals and conferences: 
-<br>
-* (upcoming) Requirements Engineering: Foundation for Software Quality (REFSQ) 2024 (PC member)
-* Science of Computer Programming Journal, 2023
-* Empirical Software Engineering Journal (EMSE), 2023
-* Information and Software Technology Journal (IST), 2023
-* The IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), 2020 (subreviewer)
 
 
 ### Other
