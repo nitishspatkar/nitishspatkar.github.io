@@ -11,6 +11,11 @@
   <div class="wrapper">
     <header>
       <h1><a href="{{ "/" | absolute_url }}">{{ site.title }}</a></h1>
+      
+      {% if site.logo %}
+        <img src="{{ site.logo | relative_url }}" alt="Logo" />
+      {% endif %}
+
       <p><a href="{{ site.github_url }}">GitHub Profile</a></p>
       <p><a href="{{ site.orcid_url }}">ORCiD Profile</a></p>
     </header>
