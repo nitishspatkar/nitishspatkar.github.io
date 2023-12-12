@@ -6,6 +6,17 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   {% seo %}
   <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+  <style>
+    .social-links {
+      display: flex;
+      justify-content: center;
+      gap: 20px;
+      margin-top: 20px;
+    }
+    .social-links img {
+      height: 30px; /* Adjust size as needed */
+    }
+  </style>
 </head>
 <body>
   <div class="wrapper">
@@ -16,9 +27,11 @@
         <img src="{{ site.logo | relative_url }}" alt="Logo" />
       {% endif %}
 
-      <p><a href="{{ site.github_url }}">GitHub Profile</a></p>
-      <p><a href="{{ site.orcid_url }}">ORCiD Profile</a></p>
-      <p><a href="{{ site.linkedin_url }}">LinkedIn Profile</a></p>
+      <div class="social-links">
+        <a href="{{ site.github_url }}"><img src="{{ site.github_logo | relative_url }}" alt="GitHub"></a>
+        <a href="{{ site.orcid_url }}"><img src="{{ site.orcid_logo | relative_url }}" alt="ORCiD"></a>
+        <a href="{{ site.linkedin_url }}"><img src="{{ site.linkedin_logo | relative_url }}" alt="LinkedIn"></a>
+      </div>
     </header>
     <section>
       {{ content }}
