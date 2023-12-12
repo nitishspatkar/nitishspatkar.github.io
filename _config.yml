@@ -2,3 +2,8 @@ theme: jekyll-theme-minimal
 title: Nitish Patkar
 description: 
 logo: images/portrait.jpg
+
+# Custom links
+github_url: https://github.com/yourusername
+orcid_url: https://orcid.org/your-orcid-id
+
