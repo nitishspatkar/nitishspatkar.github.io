@@ -2,6 +2,8 @@
 
 ---
 
+* (ongoing) "AI chart summarizer" Florin Barbisch and Luca Mazzotta.
+
 * (ongoing) "Marktplatz für „individuell" gewachsenes Obst und Gemüse: Unterstützung des Backoffice" Yannick Hohler and Simona Mavilio.
 
 * (ongoing) "Digital Horse Domain" Karin Güdel and Petra Kohler.
@@ -28,5 +30,5 @@
 
 ---
 
-* Prof. Timo Kehrer (UNi Bern)
-* Dr. Fernando Benites, Martin Kropp, and Prof. Pieter Perrett (FHNW)
+* Prof. Timo Kehrer (Uni Bern)
+* Dr. Fernando Benites, Prof. Martin Kropp, and Prof. Pieter Perrett (FHNW)

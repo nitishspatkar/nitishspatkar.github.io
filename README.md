@@ -7,7 +7,7 @@ I earned my Ph.D. from the University of Bern, specifically from the [Software C
 
 Discover my doctoral research thesis, titled [Supporting Multiple Stakeholders in Agile Development](./moldable-requirements.md).
 
-Also, review the [list of bachelor's and master's theses](./thesus.md) that I have supervised.
+Also, review the [list of bachelor's, master's theses, and other student projects](./thesus.md) that I have supervised.
 
 
 
