@@ -1,16 +1,17 @@
 ### Thesus and other student projects
 
 ---
+* (ongoing) "The Swiss Indian startups/SMEs matchmaking platform" George Rowlands and Raphael Lüthy.
 
-* (ongoing) "AI chart summarizer" Florin Barbisch and Luca Mazzotta.
+* "AI chart summarizer" Florin Barbisch and Luca Mazzotta (./pdfs/IP5_AI_Chart_Summerizer.pdf).
 
-* (ongoing) "Marktplatz für „individuell" gewachsenes Obst und Gemüse: Unterstützung des Backoffice" Yannick Hohler and Simona Mavilio.
+* "Marktplatz für „individuell" gewachsenes Obst und Gemüse: Unterstützung des Backoffice" Yannick Hohler and Simona Mavilio (./pdfs/Olanga_IP5_Mavilio_Hohler.pdf).
 
-* (ongoing) "Digital Horse Domain" Karin Güdel and Petra Kohler.
+* "Digital Horse Domain" Karin Güdel and Petra Kohler (./pdfs/EquiApp_IP5_HS23_Kohler_Guedel.pdf).
 
-* (ongoing) "Sustainability Navigator für die FHNW" Kevin Würsch and Philippe Fasel.
+* "Sustainability Navigator für die FHNW" Kevin Würsch and Philippe Fasel (./pdfs/IP5_SustainabilityNavigator.pdf).
 
-* (ongoing) "Visualisierung und Analyse von Daten von Fittnesstrackern" Elias Bräm and Francesco Lucia.
+* "Visualisierung und Analyse von Daten von Fittnesstrackern" Elias Bräm and Francesco Lucia (./pdfs/IP5_Lucia_Braem_fitness_tracker.pdf).
 
 * "Adaptive user interfaces," Adhurim Gervalla and Julian Frey, IP5 student project, FHNW, January 2023 [Download PDF](./pdfs/adaptive_user_interfaces.pdf).
 
