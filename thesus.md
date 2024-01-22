@@ -3,15 +3,15 @@
 ---
 * (ongoing) "The Swiss Indian startups/SMEs matchmaking platform" George Rowlands and Raphael Lüthy.
 
-* "AI chart summarizer" Florin Barbisch and Luca Mazzotta (./pdfs/IP5_AI_Chart_Summerizer.pdf).
+* "AI chart summarizer" Florin Barbisch and Luca Mazzotta [Download PDF](./pdfs/IP5_AI_Chart_Summerizer.pdf).
 
-* "Marktplatz für „individuell" gewachsenes Obst und Gemüse: Unterstützung des Backoffice" Yannick Hohler and Simona Mavilio (./pdfs/Olanga_IP5_Mavilio_Hohler.pdf).
+* "Marktplatz für „individuell" gewachsenes Obst und Gemüse: Unterstützung des Backoffice" Yannick Hohler and Simona Mavilio [Download PDF](./pdfs/Olanga_IP5_Mavilio_Hohler.pdf).
 
-* "Digital Horse Domain" Karin Güdel and Petra Kohler (./pdfs/EquiApp_IP5_HS23_Kohler_Guedel.pdf).
+* "Digital Horse Domain" Karin Güdel and Petra Kohler [Download PDF](./pdfs/EquiApp_IP5_HS23_Kohler_Guedel.pdf).
 
-* "Sustainability Navigator für die FHNW" Kevin Würsch and Philippe Fasel (./pdfs/IP5_SustainabilityNavigator.pdf).
+* "Sustainability Navigator für die FHNW" Kevin Würsch and Philippe Fasel [Download PDF](./pdfs/IP5_SustainabilityNavigator.pdf).
 
-* "Visualisierung und Analyse von Daten von Fittnesstrackern" Elias Bräm and Francesco Lucia (./pdfs/IP5_Lucia_Braem_fitness_tracker.pdf).
+* "Visualisierung und Analyse von Daten von Fittnesstrackern" Elias Bräm and Francesco Lucia [Download PDF](./pdfs/IP5_Lucia_Braem_fitness_tracker.pdf).
 
 * "Adaptive user interfaces," Adhurim Gervalla and Julian Frey, IP5 student project, FHNW, January 2023 [Download PDF](./pdfs/adaptive_user_interfaces.pdf).
 
