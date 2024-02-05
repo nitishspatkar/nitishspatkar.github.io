@@ -1,6 +1,20 @@
 ### Thesus and other student projects
 
 ---
+* (ongoing) "Innovative Prompt Management for LLMs".
+
+* (ongoing) ""What's that error?"-- let's make the error messages actionable".
+
+* (ongoing) "Artha - The new way of water".
+
+* (ongoing) "Roam Network - Community-Driven Network Transformation".
+
+* (ongoing) ""What do you think, dear developer?"-- A Feedback-Driven Approach for better software development".
+
+* (ongoing) "From Search to Trust: towards sustainable B2B matchmaking".
+
+* (ongoing) "AI for RE - Providing AI Support for the Future Requirements Engineer	".
+
 * (ongoing) "The Swiss Indian startups/SMEs matchmaking platform" George Rowlands and Raphael Lüthy.
 
 * "AI chart summarizer" Florin Barbisch and Luca Mazzotta [Download PDF](./pdfs/IP5_AI_Chart_Summerizer.pdf).
