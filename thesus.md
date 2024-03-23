@@ -15,7 +15,7 @@
 
 * (ongoing) "AI for RE - Providing AI Support for the Future Requirements Engineer	".
 
-* (ongoing) "The Swiss Indian startups/SMEs matchmaking platform" George Rowlands and Raphael Lüthy [Download PDF](./pdfs/Bridging_the_Gap_HS23_IIT36.pdf). 
+* "The Swiss Indian startups/SMEs matchmaking platform" George Rowlands and Raphael Lüthy [Download PDF](./pdfs/Bridging_the_Gap_HS23_IIT36.pdf). 
 
 * "AI chart summarizer" Florin Barbisch and Luca Mazzotta [Download PDF](./pdfs/IP5_AI_Chart_Summerizer.pdf).
 
