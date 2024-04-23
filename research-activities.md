@@ -1,3 +1,8 @@
+---
+layout: default
+title: Research Activities
+---
+
 Take a look at my [Google Scholar Profile](https://scholar.google.de/citations?user=y4KM2XAAAAAJ&hl=en) for my most recent publications.<br>
 
 

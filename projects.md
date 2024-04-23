@@ -1,3 +1,8 @@
+---
+layout: default
+title: Innovation projects
+---
+
 ### Projects
 I have been part of and contributing to the following Innosuisse funded research projects:
 

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Thesus and other student projects
+---
+
 ### Thesus and other student projects
 
 ---
