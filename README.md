@@ -1,38 +1,9 @@
 
 I am currently serving as a research associate at FHNW (University of Applied Sciences and Arts, Northwestern Switzerland) within the [Institute for Interactive Technologies](https://www.fhnw.ch/en/about-fhnw/schools/school-of-engineering/institutes/institute-for-interactive-technologies).
 
-Explore the list of [innovative industry projects I have been involved in](./projects.md).
-
 I earned my Ph.D. from the University of Bern, specifically from the [Software Composition Group](https://scg.unibe.ch/) under the guidance of Prof. Oscar Nierstrasz. My work primarily focuses on requirements engineering, with a keen interest in engaging various stakeholders in the software development process by providing them with a minimal number of tools complemented by the appropriate interfaces.
 
 Discover my doctoral research thesis, titled [Supporting Multiple Stakeholders in Agile Development](./moldable-requirements.md).
-
-Also, review the [list of bachelor's, master's theses, and other student projects](./thesus.md) that I have supervised.
-
-
-
-### Research activities
-
----
-
-Take a look at my [Google Scholar Profile](https://scholar.google.de/citations?user=y4KM2XAAAAAJ&hl=en) for my most recent publications.<br>
-
-I have served as a reviewer for the following international journals and conferences: 
-<br>
-* The IEEE International Requirements Engineering (RE) conference, 2024 (PC member) 
-* The International ICT4S conference 2024 (PC member)
-* Requirements Engineering: Foundation for Software Quality (REFSQ) 2024 (PC member)
-* The IEEE International Requirements Engineering (RE) conference, 2023 (co-reviewer with Prof. Norbert Seyff) 
-* Science of Computer Programming Journal, 2023
-* Empirical Software Engineering Journal (EMSE), 2023
-* Information and Software Technology Journal (IST), 2023
-* Requirements Engineering: Foundation for Software Quality (REFSQ), 2023 (co-reviewer with Prof. Norbert Seyff)
-* The IEEE International Requirements Engineering (RE) conference, 2022 (co-reviewer with Prof. Norbert Seyff) 
-* The IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), 2020 (subreviewer with Prf. Oscar Nierstrasz)<br>
-
-I have assisted Prof. Martin Glinz in grading Requirements Engineering exams at the University of Zurich. 
-
-
 
 
 ### Education
