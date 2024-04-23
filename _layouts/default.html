@@ -16,6 +16,29 @@
     .social-links img {
       height: 30px; /* Adjust size as needed */
     }
+    /* Additional styles for the research tabs */
+  .research-links {
+    display: flex;
+    justify-content: center;
+    gap: 10px; /* Adjust gap as necessary */
+    margin-top: 10px; /* Spacing from the social links */
+  }
+
+  .research-links a {
+    padding: 8px 15px; /* Padding for tab size */
+    text-decoration: none; /* Removes underline from links */
+    font-size: 14px; /* Adjust as necessary */
+    border: 1px solid #ddd; /* Border color */
+    border-radius: 5px; /* Rounded corners */
+    background-color: #f8f8f8; /* Background color */
+    color: #333; /* Text color */
+    transition: background-color 0.3s, color 0.3s; /* Transition for hover effect */
+  }
+
+  .research-links a:hover {
+    background-color: #e7e7e7; /* Background color on hover */
+    color: #000; /* Text color on hover */
+  }
   </style>
 </head>
 <body>
@@ -31,6 +54,11 @@
         <a href="{{ site.github_url }}"><img src="{{ site.github_logo | relative_url }}" alt="GitHub"></a>
         <a href="{{ site.orcid_url }}"><img src="{{ site.orcid_logo | relative_url }}" alt="ORCiD"></a>
         <a href="{{ site.linkedin_url }}"><img src="{{ site.linkedin_logo | relative_url }}" alt="LinkedIn"></a>
+
+        <!-- New links for research activities and projects -->
+  <a href="https://scholar.google.com/citations?user=y4KM2XAAAAAJ&hl=en" target="_blank">Research Activities</a>
+  <a href="./thesus.md" target="_blank">Innovative Projects</a>
+  <a href="./thesus.md" target="_blank">Supervised Projects</a>
       </div>
     </header>
     <section>
