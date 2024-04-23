@@ -19,8 +19,5 @@ I have served as a reviewer for the following international journals and confere
 * The IEEE International Requirements Engineering (RE) conference, 2022 (co-reviewer with Prof. Norbert Seyff) 
 * The IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), 2020 (subreviewer with Prf. Oscar Nierstrasz)<br>
 
-Also, review the [list of bachelor's, master's theses, and other student projects](./thesus.md) that I have supervised.
-
-
 I have assisted Prof. Martin Glinz in grading Requirements Engineering exams at the University of Zurich. 
 
