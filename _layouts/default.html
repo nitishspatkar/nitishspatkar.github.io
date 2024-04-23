@@ -35,6 +35,11 @@
     text-align: center;
     transition: background-color 0.3s, color 0.3s; /* Transition for hover effect */
   }
+  .research-links a.active {
+  background-color: #555; /* Darker background for active tab */
+  color: white; /* Light text color for contrast */
+  /* Other styles to differentiate the active tab */
+}
 
   .research-links a:hover {
     background-color: #e7e7e7; /* Background color on hover */
@@ -57,10 +62,10 @@
         <a href="{{ site.linkedin_url }}"><img src="{{ site.linkedin_logo | relative_url }}" alt="LinkedIn"></a> 
       </div>
       <div class="research-links">
-        <a href="/research-activities">Research activities</a>
-        <a href="/projects">Innovation Projects</a>
-        <a href="/thesus">Supervised Projects</a>
-      </div>
+        <a href="/research-activities" class="{% if page.url == '/research-activities.html' %}active{% endif %}">Research Activities</a>
+        <a href="/projects" class="{% if page.url == '/projects.html' %}active{% endif %}">Innovation Projects</a>
+        <a href="/thesus" class="{% if page.url == '/thesus.html' %}active{% endif %}">Supervised Projects</a>
+      </div>      
     </header>
     <section>
       {{ content }}
