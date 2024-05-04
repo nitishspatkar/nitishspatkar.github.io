@@ -8,6 +8,7 @@ Take a look at my [Google Scholar Profile](https://scholar.google.de/citations?u
 
 I have served as a reviewer for the following international journals and conferences: 
 <br>
+* Science of Computer Programming Journal, 2024
 * The IEEE International Requirements Engineering (RE) conference, 2024 (PC member) 
 * The International ICT4S conference 2024 (PC member)
 * Requirements Engineering: Foundation for Software Quality (REFSQ) 2024 (PC member)
