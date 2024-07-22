@@ -16,7 +16,7 @@ title: Thesus and other student projects
 
 * (ongoing) ""What do you think, dear developer?"-- A Feedback-Driven Approach for better software development".
 
-* (ongoing) "From Search to Trust: towards sustainable B2B matchmaking".
+* "From Search to Trust: towards sustainable B2B matchmaking" Marc Föry and Yves Hunziker [Download PDF](./pdfs/B2b_trust.pdf).
 
 * (ongoing) "AI for RE - Providing AI Support for the Future Requirements Engineer	".
 
