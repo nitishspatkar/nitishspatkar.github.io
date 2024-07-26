@@ -1,10 +1,25 @@
 
 I am currently serving as a research associate at FHNW (University of Applied Sciences and Arts, Northwestern Switzerland) within the [Institute for Interactive Technologies](https://www.fhnw.ch/en/about-fhnw/schools/school-of-engineering/institutes/institute-for-interactive-technologies).
 
-I earned my Ph.D. from the University of Bern, specifically from the [Software Composition Group](https://scg.unibe.ch/) under the guidance of Prof. Oscar Nierstrasz. My work primarily focuses on requirements engineering, with a keen interest in engaging various stakeholders in the software development process by providing them with a minimal number of tools complemented by the appropriate interfaces.
+I earned my Ph.D. from the University of Bern. Between 2018 and 2022, I was a member of the [Software Composition Group](https://scg.unibe.ch/) led by Prof. Oscar Nierstrasz. My work primarily focuses on requirements engineering, with a strong interest in UX, digital sustainability, and improving agile way of development. 
 
 Discover my doctoral research thesis, titled [Supporting Multiple Stakeholders in Agile Development](./moldable-requirements.md).
 
+### Projects I personally find interesting 
+<div class="projects-container">
+        <div class="project-card">
+            <h3>Project 1: Interactive Learning Platform</h3>
+            <p>This project focuses on developing an interactive learning platform that leverages gamification to enhance student engagement. The platform includes features such as quizzes, interactive tutorials, and real-time feedback to create an immersive learning experience.</p>
+        </div>
+        <div class="project-card">
+            <h3>Project 2: Sustainable Development Dashboard</h3>
+            <p>This dashboard provides real-time data and analytics on sustainability metrics for various industries. It aims to help organizations track their environmental impact and make data-driven decisions to promote sustainable practices.</p>
+        </div>
+        <div class="project-card">
+            <h3>Project 3: Agile Project Management Tool</h3>
+            <p>An innovative tool designed to support agile project management methodologies. It includes features for sprint planning, task tracking, and collaboration, enabling teams to work more efficiently and effectively.</p>
+        </div>
+    </div>
 
 ### Education
 
