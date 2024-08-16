@@ -3,8 +3,6 @@ I am currently serving as a research associate at FHNW (University of Applied Sc
 
 I earned my Ph.D. from the University of Bern. Between 2018 and 2022, I was a member of the [Software Composition Group](https://scg.unibe.ch/) led by Prof. Oscar Nierstrasz. My work primarily focuses on requirements engineering, with a strong interest in UX, digital sustainability, and improving agile way of development. 
 
-[View my up-to-date CV](./pdfs/CV_Patkar_EN.pdf)
-
 Discover my doctoral research thesis, titled [Supporting Multiple Stakeholders in Agile Development](./moldable-requirements.md).
 
 ### Projects I personally find interesting 
