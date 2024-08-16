@@ -5,9 +5,10 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  {% seo %}
-  <link rel="stylesheet" href="{{ " /assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+  <title>{{ site.title }}</title>
+  <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
   <style>
+    /* CSS for social links and CV buttons, similar to what you had */
     .social-links {
       display: flex;
       justify-content: center;
@@ -17,82 +18,12 @@
 
     .social-links img {
       height: 30px;
-      /* Adjust size as needed */
-    }
-
-    /* Additional styles for the research tabs */
-    .research-links {
-      display: flex;
-      justify-content: center;
-      gap: 10px;
-      /* Adjust gap as necessary */
-      margin-top: 10px;
-      /* Spacing from the social links */
-    }
-
-    .research-links a {
-      padding: 8px 15px;
-      /* Padding for tab size */
-      text-decoration: none;
-      /* Removes underline from links */
-      font-size: 14px;
-      /* Adjust as necessary */
-      border: 1px solid #ddd;
-      /* Border color */
-      border-radius: 5px;
-      /* Rounded corners */
-      background-color: #f8f8f8;
-      /* Background color */
-      color: #333;
-      /* Text color */
-      text-align: center;
-      transition: background-color 0.3s, color 0.3s;
-      /* Transition for hover effect */
-    }
-
-    .research-links a.active {
-      background-color: #555;
-      /* Darker background for active tab */
-      color: white;
-      /* Light text color for contrast */
-      /* Other styles to differentiate the active tab */
-    }
-
-    .research-links a:hover {
-      background-color: #e7e7e7;
-      /* Background color on hover */
-      color: #000;
-      /* Text color on hover */
-    }
-
-    .projects-container {
-      display: flex;
-      overflow-x: auto;
-      gap: 20px;
-      padding: 10px 0;
-    }
-
-    .project-card {
-      min-width: 350px;
-      max-width: 350px;
-      border: 1px solid #ddd;
-      border-radius: 8px;
-      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-      padding: 20px;
-      background-color: #fff;
-    }
-
-    .project-card h3 {
-      margin-top: 0;
-    }
-
-    .project-card p {
-      margin: 10px 0 0;
     }
 
     .cv-links {
       margin-top: 20px;
       display: flex;
+      justify-content: center;
       gap: 15px;
     }
 
@@ -121,7 +52,7 @@
 <body>
   <div class="wrapper">
     <header>
-      <h1><a href="{{ " /" | absolute_url }}">{{ site.title }}</a></h1>
+      <h1><a href="{{ "/" | absolute_url }}">{{ site.title }}</a></h1>
 
       {% if site.logo %}
       <img src="{{ site.logo | relative_url }}" alt="Logo" />
@@ -132,17 +63,12 @@
         <a href="{{ site.orcid_url }}"><img src="{{ site.orcid_logo | relative_url }}" alt="ORCiD"></a>
         <a href="{{ site.linkedin_url }}"><img src="{{ site.linkedin_logo | relative_url }}" alt="LinkedIn"></a>
       </div>
-      <div class="research-links">
-        <a href="/research-activities"
-          class="{% if page.url == '/research-activities.html' %}active{% endif %}">Research Activities</a>
-        <a href="/projects" class="{% if page.url == '/projects.html' %}active{% endif %}">Innovation Projects</a>
-        <a href="/thesus" class="{% if page.url == '/thesus.html' %}active{% endif %}">Supervised Projects</a>
-      </div>
+      
       <div class="cv-links">
-        <a href="path/to/your-longer-cv.pdf" target="_blank" class="cv-button">
+        <a href="/path/to/your-longer-cv.pdf" target="_blank" class="cv-button">
           <i class="fas fa-file-pdf"></i> View Full CV
         </a>
-        <a href="path/to/your-one-page-cv.pdf" target="_blank" class="cv-button">
+        <a href="/path/to/your-one-page-cv.pdf" target="_blank" class="cv-button">
           <i class="fas fa-file-alt"></i> View One-Page CV
         </a>
       </div>
@@ -154,7 +80,7 @@
       <p>&copy; {{ site.time | date: '%Y' }} {{ site.title }}</p>
     </footer>
   </div>
-  <script src="{{ " /assets/js/scale.fix.js" | relative_url }}"></script>
+  <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
 </body>
 
 </html>
