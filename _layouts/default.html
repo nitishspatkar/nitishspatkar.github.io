@@ -91,12 +91,19 @@
         <a href="{{ site.orcid_url }}"><img src="{{ site.orcid_logo | relative_url }}" alt="ORCiD"></a>
         <a href="{{ site.linkedin_url }}"><img src="{{ site.linkedin_logo | relative_url }}" alt="LinkedIn"></a>
       </div>
-      
+
+      <div class="research-links">
+        <a href="/research-activities"
+          class="{% if page.url == '/research-activities.html' %}active{% endif %}">Research Activities</a>
+        <a href="/projects" class="{% if page.url == '/projects.html' %}active{% endif %}">Innovation Projects</a>
+        <a href="/thesus" class="{% if page.url == '/thesus.html' %}active{% endif %}">Supervised Projects</a>
+      </div>
+
       <div class="cv-links">
-        <a href="./pdfs/Patkar_CV.pdf" target="_blank" class="cv-button">
+        <a href="./pdfs/CV_Patkar_En.pdf" target="_blank" class="cv-button">
           <i class="fas fa-file-pdf"></i> View Full CV
         </a>
-        <a href="./pdfs/Patkar_CV_onepager.pdf" target="_blank" class="cv-button">
+        <a href="./pdfs/one-page-cv.pdf" target="_blank" class="cv-button">
           <i class="fas fa-file-alt"></i> View One-Page CV
         </a>
       </div>
