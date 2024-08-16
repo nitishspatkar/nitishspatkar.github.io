@@ -6,15 +6,15 @@ title: Thesus and other student projects
 ### Thesus and other student projects
 
 ---
-* (ongoing) "Innovative Prompt Management for LLMs".
+* "Innovative Prompt Management for LLMs" Jack Gläser and Simon Lüscher [Download PDF](./pdfs/IP5_FS24_Simon_Jack.pdf) .
 
 * (ongoing) ""What's that error?"-- let's make the error messages actionable".
 
-* (ongoing) "Artha - The new way of water".
+* "Artha - The new way of water" Jan Zimmerman and Sven Ziörjen [Download PDF](./pdfs/IP5_FS24_artha_zioerjen_zimmermann.pdf).
 
 * (ongoing) "Roam Network - Community-Driven Network Transformation".
 
-* (ongoing) ""What do you think, dear developer?"-- A Feedback-Driven Approach for better software development".
+* ""What do you think, dear developer?"-- A Feedback-Driven Approach for better software development" Petra Kohler and Nick Bauer [Download PDF](./pdfs/IP6_FS24_baur_Kohler.pdf).
 
 * "From Search to Trust: towards sustainable B2B matchmaking" Marc Föry and Yves Hunziker [Download PDF](./pdfs/B2b_trust.pdf).
 
