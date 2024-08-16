@@ -8,7 +8,7 @@ title: Thesus and other student projects
 ---
 * "Innovative Prompt Management for LLMs" Jack Gläser and Simon Lüscher [Download PDF](./pdfs/IP5_FS24_Simon_Jack.pdf) .
 
-* (ongoing) ""What's that error?"-- let's make the error messages actionable".
+* ""What's that error?"-- let's make the error messages actionable" Loren Desch and Antonio Salvia [Download PDF](./pdfs/IP6_FS24_Lorin_Antonio.pdf).
 
 * "Artha - The new way of water" Jan Zimmerman and Sven Ziörjen [Download PDF](./pdfs/IP5_FS24_artha_zioerjen_zimmermann.pdf).
 
