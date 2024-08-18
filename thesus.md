@@ -18,7 +18,7 @@ title: Thesus and other student projects
 
 * "From Search to Trust: towards sustainable B2B matchmaking" Marc Föry and Yves Hunziker [Download PDF](./pdfs/B2b_trust.pdf).
 
-* (ongoing) "AI for RE - Providing AI Support for the Future Requirements Engineer	".
+* "AI for RE - Providing AI Support for the Future Requirements Engineer" Nathanael Düblin and Nadja Kälin [Download PDF](./pdfs/IP6_AI4RE.pdf).
 
 * "The Swiss Indian startups/SMEs matchmaking platform" George Rowlands and Raphael Lüthy [Download PDF](./pdfs/Bridging_the_Gap_HS23_IIT36.pdf). 
 
