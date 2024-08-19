@@ -12,7 +12,7 @@ title: Thesus and other student projects
 
 * "Artha - The new way of water" Jan Zimmerman and Sven Ziörjen [Download PDF](./pdfs/IP5_FS24_artha_zioerjen_zimmermann.pdf).
 
-* (ongoing) "Roam Network - Community-Driven Network Transformation".
+* "Roam Network - Community-Driven Network Transformation" Yannick Hohler and Elena Algaria [Doanload PDF](./pdfs/IP6_roamapp.pdf).
 
 * ""What do you think, dear developer?"-- A Feedback-Driven Approach for better software development" Petra Kohler and Nick Bauer [Download PDF](./pdfs/IP6_FS24_baur_Kohler.pdf).
 
