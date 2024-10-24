@@ -1,0 +1,22 @@
+.research-links a.active {
+    background-color: #0056b3;
+    color: white;
+    border-bottom: 3px solid #007bff;
+}
+.social-links img:hover {
+    transform: scale(1.1);
+    transition: transform 0.3s ease;
+}
+@media (max-width: 600px) {
+    .project-card {
+        min-width: 250px;
+        max-width: 250px;
+    }
+}
+footer {
+    text-align: center;
+    margin-top: 50px;
+    padding: 20px 0;
+    background-color: #f8f8f8;
+    border-top: 1px solid #ddd;
+}
