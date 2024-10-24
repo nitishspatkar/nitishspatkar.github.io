@@ -8,6 +8,7 @@
   <title>{{ site.title }}</title>
   <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
   <style>
+    /* Social Links */
     .social-links {
       display: flex;
       justify-content: center;
@@ -17,8 +18,14 @@
     
     .social-links img {
       height: 30px;
+      transition: transform 0.3s ease; /* Add hover effect */
     }
-    
+
+    .social-links img:hover {
+      transform: scale(1.1); /* Slight zoom on hover */
+    }
+
+    /* Research Links */
     .research-links {
       display: flex;
       justify-content: center;
@@ -48,17 +55,19 @@
       background-color: #e7e7e7;
       color: #000;
     }
-    
+
+    /* CV Button */
     .cv-button {
       display: inline-block;
-      padding: 12px 25px; /* Adjusted padding */
+      padding: 10px 20px; /* Adjusted padding */
       background-color: #007bff;
       color: #fff;
       text-decoration: none;
       border-radius: 5px;
       font-family: Arial, sans-serif;
-      font-size: 14px; /* Increase font size */
+      font-size: 14px; /* Increased font size */
       transition: background-color 0.3s ease;
+      min-width: 120px; /* Ensure buttons are the same width */
     }
     
     .cv-button:hover {
@@ -66,15 +75,18 @@
     }
     
     .cv-button i {
-      margin-right: 10px; /* Adjusted icon spacing */
-    }
-    .cv-links {
-      margin-top: 20px;
-      display: flex;
-      justify-content: center;
-      gap: 20px; /* Increase gap between buttons */
+      margin-right: 8px; /* Adjusted icon spacing */
     }
     
+    /* CV Links Container */
+    .cv-links {
+      margin-top: 25px; /* Increased top margin for better spacing */
+      display: flex;
+      justify-content: center;
+      gap: 20px; /* Increased gap between buttons */
+    }
+
+    /* Projects Container */
     .projects-container {
       display: flex;
       overflow-x: auto;
@@ -102,13 +114,23 @@
     .project-card p {
       margin: 10px 0 0;
     }
+
+    /* Responsive Adjustments for Mobile */
     @media (max-width: 600px) {
       .cv-button {
-        font-size: 12px;
-        padding: 10px 15px; /* Adjust padding for mobile */
+        font-size: 12px; /* Decreased font size for smaller screens */
+        padding: 8px 15px; /* Adjust padding for mobile */
       }
     }
-  </style>
+
+    /* Footer */
+    footer {
+      margin-top: 40px; /* Increased margin above footer */
+      text-align: center;
+      padding: 10px 0;
+    }
+</style>
+
 </head>
 
 <body>
