@@ -14,18 +14,18 @@
       gap: 20px;
       margin-top: 20px;
     }
-
+    
     .social-links img {
       height: 30px;
     }
-
+    
     .research-links {
       display: flex;
       justify-content: center;
       gap: 10px;
       margin-top: 10px;
     }
-
+    
     .research-links a {
       padding: 8px 15px;
       text-decoration: none;
@@ -37,44 +37,44 @@
       text-align: center;
       transition: background-color 0.3s, color 0.3s;
     }
-
+    
     .research-links a.active {
-      background-color: #555;
-      color: white;
+      background-color: #007bff; /* More prominent active background */
+      color: #fff; /* White text for contrast */
+      border-bottom: 3px solid #0056b3; /* A visual border to highlight the active state */
     }
-
+    
     .research-links a:hover {
       background-color: #e7e7e7;
       color: #000;
     }
-
-    .cv-links {
-      margin-top: 20px;
-      display: flex;
-      justify-content: center;
-      gap: 15px;
-    }
-
+    
     .cv-button {
       display: inline-block;
-      padding: 10px 20px;
+      padding: 12px 25px; /* Adjusted padding */
       background-color: #007bff;
       color: #fff;
       text-decoration: none;
       border-radius: 5px;
       font-family: Arial, sans-serif;
-      font-size: 11px;
+      font-size: 14px; /* Increase font size */
       transition: background-color 0.3s ease;
     }
-
+    
     .cv-button:hover {
-      background-color: #0056b3;
+      background-color: #0056b3; /* Hover effect */
     }
-
+    
     .cv-button i {
-      margin-right: 8px;
+      margin-right: 10px; /* Adjusted icon spacing */
     }
-
+    .cv-links {
+      margin-top: 20px;
+      display: flex;
+      justify-content: center;
+      gap: 20px; /* Increase gap between buttons */
+    }
+    
     .projects-container {
       display: flex;
       overflow-x: auto;
@@ -82,7 +82,7 @@
       padding: 10px 0;
       scroll-snap-type: x mandatory;
     }
-
+    
     .project-card {
       min-width: 350px;
       max-width: 350px;
@@ -94,13 +94,19 @@
       flex-shrink: 0;
       scroll-snap-align: start;
     }
-
+    
     .project-card h3 {
       margin-top: 0;
     }
-
+    
     .project-card p {
       margin: 10px 0 0;
+    }
+    @media (max-width: 600px) {
+      .cv-button {
+        font-size: 12px;
+        padding: 10px 15px; /* Adjust padding for mobile */
+      }
     }
   </style>
 </head>
@@ -109,24 +115,24 @@
   <div class="wrapper">
     <header>
       <h1><a href="{{ "/" | absolute_url }}">{{ site.title }}</a></h1>
-
+      
       {% if site.logo %}
       <img src="{{ site.logo | relative_url }}" alt="Logo" />
       {% endif %}
-
+      
       <div class="social-links">
         <a href="{{ site.github_url }}"><img src="{{ site.github_logo | relative_url }}" alt="GitHub"></a>
         <a href="{{ site.orcid_url }}"><img src="{{ site.orcid_logo | relative_url }}" alt="ORCiD"></a>
         <a href="{{ site.linkedin_url }}"><img src="{{ site.linkedin_logo | relative_url }}" alt="LinkedIn"></a>
       </div>
-
+      
       <div class="research-links">
         <a href="/research-activities"
-          class="{% if page.url == '/research-activities.html' %}active{% endif %}">Research Activities</a>
+        class="{% if page.url == '/research-activities.html' %}active{% endif %}">Research Activities</a>
         <a href="/projects" class="{% if page.url == '/projects.html' %}active{% endif %}">Innovation Projects</a>
         <a href="/thesus" class="{% if page.url == '/thesus.html' %}active{% endif %}">Supervised Projects</a>
       </div>
-
+      
       <div class="cv-links">
         <a href="./pdfs/Patkar_CV.pdf" target="_blank" class="cv-button">
           <i class="fas fa-file-pdf"></i> Full CV
@@ -140,12 +146,12 @@
     <section>
       {{ content }}
     </section>
-
+    
     <footer>
       <p>&copy; {{ site.time | date: '%Y' }} {{ site.title }}</p>
     </footer>
   </div>
-
+  
   <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
 </body>
 
