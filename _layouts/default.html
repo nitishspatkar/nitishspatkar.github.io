@@ -125,13 +125,10 @@
     
     /* Footer */
     footer {
-      margin-top: 40px;
+      margin-top: 10px;
       text-align: center;
       padding: 10px 0;
-      position: fixed;
-      bottom: 0;
-      width: 100%;
-      background-color: #f8f8f8;
+      color: #555;
     }
   </style>
   
@@ -170,6 +167,10 @@
         <a href="./pdfs/Patkar_CV_3_En.pdf" target="_blank" class="cv-button">
           <i class="fas fa-file-alt"></i> One-Page CV En
         </a>
+        
+        <footer>
+          <p>&copy; {{ site.time | date: '%Y' }} {{ site.title }}</p>
+        </footer>
       </div>
     </header>
     
@@ -177,9 +178,7 @@
       {{ content }}
     </section>
     
-    <footer>
-      <p>&copy; {{ site.time | date: '%Y' }} {{ site.title }}</p>
-    </footer>
+    
   </div>
   
   <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
