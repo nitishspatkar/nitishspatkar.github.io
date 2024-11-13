@@ -80,11 +80,32 @@
     
     /* CV Links Container */
     .cv-links {
-      margin-top: 25px; /* Increased top margin for better spacing */
+      margin-top: 25px;
       display: flex;
       justify-content: center;
-      gap: 20px; /* Increased gap between buttons */
+      gap: 20px;
+      flex-wrap: wrap; /* Ensures buttons stack on small screens */
     }
+    
+    footer {
+      margin-top: 15px;
+      text-align: center;
+      padding: 10px 0;
+      width: 100%;
+      color: #555;
+      font-size: 14px;
+    }
+    
+    @media (max-width: 600px) {
+      .cv-button {
+        font-size: 12px;
+        padding: 8px 15px;
+      }
+      .cv-links {
+        gap: 10px; /* Reduced gap for mobile screens */
+      }
+    }
+    
     
     /* Projects Container */
     .projects-container {
@@ -115,21 +136,7 @@
       margin: 10px 0 0;
     }
     
-    /* Responsive Adjustments for Mobile */
-    @media (max-width: 600px) {
-      .cv-button {
-        font-size: 12px; /* Decreased font size for smaller screens */
-        padding: 8px 15px; /* Adjust padding for mobile */
-      }
-    }
     
-    /* Footer */
-    footer {
-      margin-top: 10px;
-      text-align: center;
-      padding: 10px 0;
-      color: #555;
-    }
   </style>
   
 </head>
@@ -167,11 +174,11 @@
         <a href="./pdfs/Patkar_CV_3_En.pdf" target="_blank" class="cv-button">
           <i class="fas fa-file-alt"></i> One-Page CV En
         </a>
-        
-        <footer>
-          <p>&copy; {{ site.time | date: '%Y' }} {{ site.title }}</p>
-        </footer>
       </div>
+      
+      <footer>
+        <p>&copy; {{ site.time | date: '%Y' }} Nitish Patkar. All rights reserved.</p>
+      </footer>
     </header>
     
     <section>
