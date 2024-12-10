@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ site.title }}</title>
   <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
-
+  
   <style>
     /* General Styling */
     body {
@@ -15,29 +15,29 @@
       margin: 0;
       padding: 0;
     }
-
+    
     .wrapper {
       max-width: 1200px;
       margin: 0 auto;
       padding: 20px;
     }
-
+    
     /* Header Styling */
     header {
       text-align: center;
       margin-bottom: 30px;
     }
-
+    
     header h1 {
       font-size: 2.5rem;
       margin-bottom: 10px;
     }
-
+    
     header p {
       font-size: 1.2rem;
       color: #666;
     }
-
+    
     /* Profile Image Styling */
     header img {
       border-radius: 0%;
@@ -46,7 +46,7 @@
       margin: 20px auto;
       display: block;
     }
-
+    
     /* Social Links */
     .social-links {
       display: flex;
@@ -54,17 +54,17 @@
       gap: 15px;
       margin: 20px 0;
     }
-
+    
     .social-links img {
       height: 30px;
       width: auto;
       transition: transform 0.3s ease;
     }
-
+    
     .social-links img:hover {
       transform: scale(1.1);
     }
-
+    
     /* Navigation Links */
     .research-links {
       display: flex;
@@ -73,7 +73,7 @@
       margin: 20px 0;
       flex-wrap: wrap;
     }
-
+    
     .research-links a {
       padding: 10px 20px;
       font-size: 1rem;
@@ -85,17 +85,17 @@
       text-align: center;
       transition: background-color 0.3s, color 0.3s;
     }
-
+    
     .research-links a.active {
       background-color: #007bff;
       color: #fff;
     }
-
+    
     .research-links a:hover {
       background-color: #0056b3;
       color: #fff;
     }
-
+    
     /* CV Links */
     .cv-links {
       display: flex;
@@ -104,7 +104,7 @@
       flex-wrap: wrap;
       margin: 30px 0;
     }
-
+    
     .cv-button {
       display: inline-block;
       padding: 12px 20px;
@@ -116,11 +116,11 @@
       text-align: center;
       transition: background-color 0.3s ease;
     }
-
+    
     .cv-button:hover {
       background-color: #0056b3;
     }
-
+    
     /* Footer */
     footer {
       margin-top: 40px;
@@ -128,37 +128,37 @@
       font-size: 0.9rem;
       color: #555;
     }
-
+    
     /* Responsive Adjustments */
     @media screen and (max-width: 768px) {
       header img {
         max-width: 120px;
       }
-
+      
       header h1 {
         font-size: 2rem;
       }
-
+      
       .cv-links, .research-links {
         flex-direction: column;
         gap: 10px;
       }
-
+      
       .cv-button {
         min-width: 100%;
         max-width: 300px;
       }
     }
-
+    
     @media screen and (max-width: 480px) {
       header img {
         max-width: 100px;
       }
-
+      
       header h1 {
         font-size: 1.5rem;
       }
-
+      
       .cv-button {
         font-size: 0.9rem;
         padding: 10px;
@@ -171,21 +171,26 @@
   <div class="wrapper">
     <header>
       <!-- Header Title with Link to Homepage -->
-      <a href="/" style="text-decoration: none; color: inherit;">
-        <h1>{{ site.title }}</h1>
+      <a href="/" style="text-decoration: none;">
+        <h1 style="font-size: 3rem; color: #007bff; font-weight: bold; text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1); margin: 0;">
+          {{ site.title }}
+        </h1>
       </a>
-      <p>Science is a path to knowing yourself and the world.</p>
-
+      <p style="font-size: 1.2rem; color: #555; font-style: italic; margin-top: 10px; line-height: 1.4;">
+        Science is a path to knowing yourself and the world.
+      </p>
+      
+      
       <!-- Profile Photo -->
       <img src="{{ site.logo | relative_url }}" alt="Nitish Patkar">
-
+      
       <!-- Social Links -->
       <div class="social-links">
         <a href="{{ site.github_url }}"><img src="{{ site.github_logo | relative_url }}" alt="GitHub"></a>
         <a href="{{ site.orcid_url }}"><img src="{{ site.orcid_logo | relative_url }}" alt="ORCiD"></a>
         <a href="{{ site.linkedin_url }}"><img src="{{ site.linkedin_logo | relative_url }}" alt="LinkedIn"></a>
       </div>
-
+      
       <!-- Navigation Links -->
       <div class="research-links">
         <a href="{{ '/research-activities' | relative_url }}" class="{% if page.url == '/research-activities.html' %}active{% endif %}">Research Activities</a>
@@ -193,19 +198,19 @@
         <a href="{{ '/thesus' | relative_url }}" class="{% if page.url == '/thesus.html' %}active{% endif %}">Supervised Projects</a>
         <a href="{{ '/interesting-projects' | relative_url }}" class="{% if page.url == '/interesting-projects.html' %}active{% endif %}">Ongoing Research Projects</a>
       </div>
-
+      
       <!-- CV Buttons -->
       <div class="cv-links">
         <a href="./pdfs/Patkar_research_CV_En.pdf" target="_blank" class="cv-button">Full CV</a>
         <a href="./pdfs/Patkar_CV_3_En.pdf" target="_blank" class="cv-button">One-Page CV En</a>
       </div>
     </header>
-
+    
     <!-- Dynamic Content Section -->
     <section>
       {{ content }}
     </section>
-
+    
     <!-- Footer -->
     <footer>
       <p>&copy; {{ site.time | date: '%Y' }} Nitish Patkar. All rights reserved.</p>
