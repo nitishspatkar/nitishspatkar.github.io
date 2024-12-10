@@ -3,6 +3,10 @@ layout: default
 title: Ongoing Research Projects
 ---
 
+### Research Projects
+I am working actively on and contributing to the following research projects:
+
+---
 
 #### Challenges and Opportunities for Prompt Management
 Accepted at MuC 2024, our paper examines the usability of generative AI tools like ChatGPT, focusing on prompt management. From a survey of 61 users, we identified the need for better search functions and labeling. We also highlight how efficient prompt management can reduce AI's environmental impact, promoting more sustainable AI practices.
