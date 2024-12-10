@@ -1,21 +1,17 @@
 ---
 layout: default
-title: "Interesting Projects"
+title: Ongoing Research Projects
 ---
 
-# Projects I Personally Find Interesting
+### Projects I Personally Find Interesting
 
-<div class="projects-container">
-  <div class="project-card">
-    <h3>Challenges and Opportunities for Prompt Management</h3>
-    <p>Accepted at MuC 2024, our paper investigates the usability and user experience of generative AI tools like ChatGPT...</p>
-  </div>
-  <div class="project-card">
-    <h3>Data-Driven Persona Creation, Validation, and Evolution</h3>
-    <p>Submitted for SNSF BRIDGE Proof of Concept funding, our paper introduces a data-driven approach...</p>
-  </div>
-  <div class="project-card">
-    <h3>Data-Driven Estimation for Feature Implementation</h3>
-    <p>This work-in-progress project aims to develop a data-driven method to accurately estimate the human and time resources required...</p>
-  </div>
-</div>
+#### Challenges and Opportunities for Prompt Management
+Accepted at MuC 2024, our paper examines the usability of generative AI tools like ChatGPT, focusing on prompt management. From a survey of 61 users, we identified the need for better search functions and labeling. We also highlight how efficient prompt management can reduce AI's environmental impact, promoting more sustainable AI practices.
+
+#### Data-Driven Persona Creation, Validation, and Evolution
+Our paper introduces a data-driven approach to automate and continuously update personas using user feedback and monitoring data. This method aims to make persona development more efficient and accurate, improving user experience while reducing redundant efforts for greater sustainability.
+
+
+#### >Data-Driven Estimation for Feature Implementation
+This project aims to develop a data-driven method to estimate the human and time resources needed for new software features. By analyzing historical data, we seek to improve resource estimation and train AI models for better predictions. Our goal is to make feature development more efficient and accurate.
+
