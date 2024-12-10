@@ -8,75 +8,163 @@
   <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
 
   <style>
-    /* Fix for alignment of buttons */
-    .cv-links, .research-links {
-      display: flex;
-      justify-content: center;
-      gap: 15px;
-      flex-wrap: wrap; /* Ensures elements wrap on smaller screens */
+    /* General Styling */
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 0;
+      padding: 0;
     }
-  
-    .cv-button {
-      padding: 12px 20px;
-      font-size: 1rem;
+
+    .wrapper {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+
+    /* Header Styling */
+    header {
       text-align: center;
-      min-width: 120px; /* Ensures consistent button size */
+      margin-bottom: 30px;
     }
-  
+
+    header h1 {
+      font-size: 2.5rem;
+      margin-bottom: 10px;
+    }
+
+    header p {
+      font-size: 1.2rem;
+      color: #666;
+    }
+
     /* Profile Image Styling */
     header img {
       border-radius: 50%;
       max-width: 150px;
       height: auto;
+      margin: 20px auto;
       display: block;
-      margin: 10px auto;
     }
-  
-    /* Footer Fix */
+
+    /* Social Links */
+    .social-links {
+      display: flex;
+      justify-content: center;
+      gap: 15px;
+      margin: 20px 0;
+    }
+
+    .social-links img {
+      height: 30px;
+      width: auto;
+      transition: transform 0.3s ease;
+    }
+
+    .social-links img:hover {
+      transform: scale(1.1);
+    }
+
+    /* Navigation Links */
+    .research-links {
+      display: flex;
+      justify-content: center;
+      gap: 15px;
+      margin: 20px 0;
+      flex-wrap: wrap;
+    }
+
+    .research-links a {
+      padding: 10px 20px;
+      font-size: 1rem;
+      border: 1px solid #ddd;
+      border-radius: 5px;
+      background-color: #f8f8f8;
+      color: #333;
+      text-decoration: none;
+      text-align: center;
+      transition: background-color 0.3s, color 0.3s;
+    }
+
+    .research-links a.active {
+      background-color: #007bff;
+      color: #fff;
+    }
+
+    .research-links a:hover {
+      background-color: #0056b3;
+      color: #fff;
+    }
+
+    /* CV Links */
+    .cv-links {
+      display: flex;
+      justify-content: center;
+      gap: 15px;
+      flex-wrap: wrap;
+      margin: 30px 0;
+    }
+
+    .cv-button {
+      display: inline-block;
+      padding: 12px 20px;
+      font-size: 1rem;
+      border-radius: 5px;
+      background-color: #007bff;
+      color: #fff;
+      text-decoration: none;
+      text-align: center;
+      transition: background-color 0.3s ease;
+    }
+
+    .cv-button:hover {
+      background-color: #0056b3;
+    }
+
+    /* Footer */
     footer {
       margin-top: 40px;
       text-align: center;
       font-size: 0.9rem;
       color: #555;
-      padding: 10px;
     }
-  
-    /* Responsive Layout for Smaller Screens */
+
+    /* Responsive Adjustments */
     @media screen and (max-width: 768px) {
-      .research-links, .cv-links {
+      header img {
+        max-width: 120px;
+      }
+
+      header h1 {
+        font-size: 2rem;
+      }
+
+      .cv-links, .research-links {
         flex-direction: column;
         gap: 10px;
       }
-  
+
       .cv-button {
         min-width: 100%;
         max-width: 300px;
       }
-  
-      header img {
-        max-width: 120px;
-      }
-  
-      header h1 {
-        font-size: 1.8rem;
-      }
     }
-  
+
     @media screen and (max-width: 480px) {
+      header img {
+        max-width: 100px;
+      }
+
+      header h1 {
+        font-size: 1.5rem;
+      }
+
       .cv-button {
         font-size: 0.9rem;
         padding: 10px;
       }
-  
-      header h1 {
-        font-size: 1.5rem;
-      }
-  
-      header img {
-        max-width: 100px;
-      }
     }
-  </style>  
+  </style>
 </head>
 
 <body>
@@ -87,6 +175,9 @@
         <h1>{{ site.title }}</h1>
       </a>
       <p>Science is a path to knowing yourself and the world.</p>
+
+      <!-- Profile Photo -->
+      <img src="{{ site.logo | relative_url }}" alt="Nitish Patkar">
 
       <!-- Social Links -->
       <div class="social-links">
@@ -105,12 +196,8 @@
 
       <!-- CV Buttons -->
       <div class="cv-links">
-        <a href="./pdfs/CV_Patkar_EN_Research.pdf" target="_blank" class="cv-button">
-          Full CV
-        </a>
-        <a href="./pdfs/Patkar_CV_3_En.pdf" target="_blank" class="cv-button">
-          One-Page CV En
-        </a>
+        <a href="./pdfs/CV_Patkar_EN_Research.pdf" target="_blank" class="cv-button">Full CV</a>
+        <a href="./pdfs/Patkar_CV_3_En.pdf" target="_blank" class="cv-button">One-Page CV En</a>
       </div>
     </header>
 
