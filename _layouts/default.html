@@ -17,7 +17,7 @@
     }
     
     .wrapper {
-      max-width: 1200px; /* Increased max width for better layout */
+      max-width: 1000px; /* Decrease width slightly for tighter alignment */
       margin: 0 auto;
       padding: 20px;
     }
@@ -87,6 +87,7 @@
       text-decoration: none;
       text-align: center;
       transition: background-color 0.3s, color 0.3s;
+      min-width: 120px; /* Ensures smaller buttons */
     }
     
     .research-links a.active {
@@ -103,22 +104,22 @@
     .cv-links {
       display: flex;
       justify-content: center;
-      gap: 15px;
+      gap: 10px;
       flex-wrap: wrap;
-      margin: 30px 0;
+      margin: 20px 0;
     }
     
     .cv-button {
       display: inline-block;
-      padding: 12px 20px;
-      font-size: 1rem;
+      padding: 10px 18px; /* Reduced padding for smaller buttons */
+      font-size: 0.9rem; /* Slightly smaller font */
       border-radius: 5px;
-      background-color: #007bff; /* Updated for a more cohesive design */
+      background-color: #007bff;
       color: #fff;
       text-decoration: none;
       text-align: center;
       transition: background-color 0.3s ease;
-      min-width: 150px; /* Ensures consistent button size */
+      min-width: 140px; /* Consistent button width */
     }
     
     .cv-button:hover {
@@ -135,6 +136,20 @@
     }
     
     /* Responsive Adjustments */
+    @media screen and (max-width: 1024px) {
+      .wrapper {
+        max-width: 900px; /* Adjust layout for smaller screens */
+      }
+      
+      .cv-links, .research-links {
+        gap: 10px;
+      }
+      
+      .cv-button {
+        min-width: 120px;
+      }
+    }
+    
     @media screen and (max-width: 768px) {
       header img {
         max-width: 120px;
