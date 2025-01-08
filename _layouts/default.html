@@ -17,7 +17,7 @@
     }
     
     .wrapper {
-      max-width: 1200px;
+      max-width: 1200px; /* Increased max width for better layout */
       margin: 0 auto;
       padding: 20px;
     }
@@ -31,16 +31,19 @@
     header h1 {
       font-size: 2.5rem;
       margin-bottom: 10px;
+      color: #333;
+      font-weight: bold;
     }
     
     header p {
       font-size: 1.2rem;
       color: #666;
+      font-style: italic;
     }
     
     /* Profile Image Styling */
     header img {
-      border-radius: 0%;
+      border-radius: 0; /* No circular border */
       max-width: 150px;
       height: auto;
       margin: 20px auto;
@@ -110,15 +113,16 @@
       padding: 12px 20px;
       font-size: 1rem;
       border-radius: 5px;
-      background-color: #666666;
+      background-color: #007bff; /* Updated for a more cohesive design */
       color: #fff;
       text-decoration: none;
       text-align: center;
       transition: background-color 0.3s ease;
+      min-width: 150px; /* Ensures consistent button size */
     }
     
     .cv-button:hover {
-      background-color: #333333;
+      background-color: #0056b3;
     }
     
     /* Footer */
@@ -127,6 +131,7 @@
       text-align: center;
       font-size: 0.9rem;
       color: #555;
+      clear: both; /* Ensures footer stays below content */
     }
     
     /* Responsive Adjustments */
@@ -164,7 +169,7 @@
         padding: 10px;
       }
     }
-  </style>
+  </style>  
 </head>
 
 <body>
