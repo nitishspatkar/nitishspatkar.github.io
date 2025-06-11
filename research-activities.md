@@ -8,6 +8,7 @@ Take a look at my [Google Scholar Profile](https://scholar.google.de/citations?u
 #### 2025
 
 * Local and web chair, [XP2025](https://conf.researchr.org/home/xp-2025) conference.
+* Workshop organizer (The 9th International Workshop on Crowd-Based Requirements Engineering In conjunction with RE'2025)
 * The IEEE International Requirements Engineering (RE) conference, 2025 (PC member) 
 * Requirements Engineering: Foundation for Software Quality (REFSQ) 2025 (PC member, Best reviewer award)
 
