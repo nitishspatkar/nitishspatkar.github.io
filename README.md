@@ -1,7 +1,7 @@
 
-I am currently serving as a research associate at FHNW (University of Applied Sciences and Arts, Northwestern Switzerland) within the [Institute for Interactive Technologies](https://www.fhnw.ch/en/about-fhnw/schools/school-of-engineering/institutes/institute-for-interactive-technologies).
+I am currently a research associate at FHNW (University of Applied Sciences and Arts, Northwestern Switzerland) within the [Institute for Interactive Technologies](https://www.fhnw.ch/en/about-fhnw/schools/school-of-engineering/institutes/institute-for-interactive-technologies).
 
-I earned my Ph.D. from the University of Bern. Between 2018 and 2022, I was a member of the [Software Composition Group](https://scg.unibe.ch/) led by Prof. Oscar Nierstrasz. My work primarily focuses on requirements engineering, with a strong interest in UX, digital sustainability, and improving agile way of development. 
+I completed my Ph.D. at the University of Bern. Between 2018 and 2022, I was a member of the [Software Composition Group](https://scg.unibe.ch/) led by Prof. Oscar Nierstrasz. My work primarily focuses on requirements engineering, with a strong interest in UX, digital sustainability, and improving agile way of development. 
 
 Discover my doctoral research thesis, titled [Supporting Multiple Stakeholders in Agile Development](./moldable-requirements.md).
 
@@ -46,7 +46,7 @@ March 2022-Present
 *   Teaching as an Agile Coach for semester 3 and 4 students for a yearlong industry project.
 *   Teaching as an Team Coach for semester 1 and 1 students for a yearlong internal project focused on RUP.
 *   Proposing and supervising bachelor thesis and guiding students through the whole process of problem identification and proposing and validating a solution.
-*   Managing several projects with our industry partners.
+*   Managing several innovation projects with our industry partners.
 *   Preparing project proposals to acquire funding.
 
 **University of Bern**, as a **Research assistant**
